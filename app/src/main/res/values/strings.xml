@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TestGostCertificate</string>
+    <string name="login_error_incorrect_password">Пароль введен неправильно</string>
+    <string name="login_error_bin_not_found">В сертификате поле БИН отсутствует</string>
+    <string name="error_unknown">Непонятный ошибка</string>
+    <string name="error_empty_path">Пустои путь</string>
+    <string name="login_error_incorrect_certificate_file_format">Сертификат неправильный</string>
+    <string name="login_error_empty_uri">Пустои путь</string>
+    <string name="talon_error_no_data_tag">Тег дата не найден</string>
+    <string name="login_perm_rationable_external_storage">Дайте Разрешения для файла</string>
+    <string name="login_error_corrupted_certificate_file_or_password">Неправильный пароль</string>
+    <string name="login_error_not_file_found">файл не нашлось</string>
+</resources>
